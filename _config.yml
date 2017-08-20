@@ -1,0 +1,24 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: charlinds.github.io
+title: Charlotte A. Lindsay
+email: cal285@georgetown.edu
+author: Charlotte Anne Lindsay
+description: > # "Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
