@@ -22,3 +22,5 @@ gems:
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+
+theme: jekyll-theme-merlot
